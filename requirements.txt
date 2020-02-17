@@ -1,1 +1,4 @@
 EasyModbusSilaaCooling == 1.0.6
+HAP-python[QRCode]
+base36
+pyqrcode
