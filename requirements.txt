@@ -1,0 +1,1 @@
+EasyModbusSilaaCooling == 1.0.6
