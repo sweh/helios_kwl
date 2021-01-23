@@ -2,6 +2,6 @@ Installation
 ============
 
 
-    $ virtualenv --python=python3.7 .
-    $ bin/pip install -r requirements.txt
-    $ bin/python helios.py
+    $ python3.7 -m venv venv
+    $ venv/bin/pip install -r requirements.txt
+    $ venv/bin/python helios.py
